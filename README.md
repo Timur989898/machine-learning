@@ -1,2 +1,2 @@
 # machine-learning
-![Alt text](chart?raw=true "Title")
+![Chart](chart.png?raw=true "Chart")
