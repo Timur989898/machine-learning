@@ -1,2 +1,3 @@
 # machine-learning
-![Chart](chart.png?raw=true "Chart")
+Task 1
+![Chart](task1/chart.png?raw=true "Chart")
